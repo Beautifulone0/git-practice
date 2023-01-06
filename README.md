@@ -1,4 +1,7 @@
-# git-practice
+# git-practice just an illustration on how to start with git and git hub and also push to a remote repository 
+# you should have already created a GitHub account, downloaded git and git bash for windows users and Linux os users you should have installed git through your terminal and also you should have configured your git for both Linux and windows users
+# it's just a practice not really a project 
+
 For those of us  having issues with Git & Git hub
 
     ◦    Create a folder called git practice Note that you should create this folder on your desktop so it would be easy to locate
